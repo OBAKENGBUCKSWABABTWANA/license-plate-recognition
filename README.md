@@ -137,7 +137,7 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 ## 👨‍💻 Author
 
 **Obakeng Mdonyelwa**
-📧 [obakeng@example.com](mailto:obakeng@example.com)
+📧 [EMAIL](obakengmdonyelwa@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/obakeng-mdonyelwa-0bb96a235)
 🔗 [GitHub](https://github.com/OBAKENGBUCKSWABABTWANA)
 
